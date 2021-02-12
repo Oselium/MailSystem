@@ -1,5 +1,3 @@
-Programming III project, III Year of University. 
-
 # MailSystem
 
 A simple project for my university class using Maven, JavaFX and Java. It runs locally but it can be used from another machine.
