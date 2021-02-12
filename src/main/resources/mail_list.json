@@ -1,0 +1,145 @@
+[
+  {
+    "ID": "0",
+    "sender": "guido.ala@myMail.it",
+    "addressee": [
+      "marco.rossi@myMail.it"
+    ],
+    "subject": "Conferenza cioccolato",
+    "message": "Ti ricordo la conferenza di domani alle 16:00.\nGA",
+    "date": "Wed Feb 10 18:07:32 CET 2021"
+  },
+  {
+    "ID": "1",
+    "sender": "guido.ala@myMail.it",
+    "addressee": [
+      "anna.bianchi@myMail.it"
+    ],
+    "subject": "Suggerimento film",
+    "message": "Ti consiglio di vedere Pulp Fiction.\nCiao Guido.",
+    "date": "Wed Feb 10 18:08:17 CET 2021"
+  },
+  {
+    "ID": "2",
+    "sender": "anna.bianchi@myMail.it",
+    "addressee": [
+      "guido.ala@myMail.it"
+    ],
+    "subject": "Suggerimento film",
+    "message": "guido.ala@myMail.it\nWed Feb 10 18:08:17 CET 2021:\nTi consiglio di vedere Pulp Fiction.\nCiao Guido.\n--------------\n\nGrazie Guido, provvederò.",
+    "date": "Wed Feb 10 18:08:45 CET 2021"
+  },
+  {
+    "ID": "3",
+    "sender": "marco.rossi@myMail.it",
+    "addressee": [
+      "gigi.natale@myMail.it"
+    ],
+    "subject": "Conferenza cioccolato",
+    "message": "--- Fwd message --- \nFrom: marco.rossi@myMail.it\nTo: \u003cmarco.rossi@myMail.it\u003e \nDate: Wed Feb 10 18:07:32 CET 2021\nSubject: Conferenza cioccolato\nTi ricordo la conferenza di domani alle 16:00.\nGA",
+    "date": "Wed Feb 10 18:09:46 CET 2021"
+  },
+  {
+    "ID": "4",
+    "sender": "marco.rossi@myMail.it",
+    "addressee": [
+      "guido.ala@myMail.it",
+      "gigi.natale@myMail.it"
+    ],
+    "subject": "Trasferta Nichelino",
+    "message": "Giovedi alle 5:00 partenza da Rivarolo.\nRicordate la documentazione.\nMarco Rossi.",
+    "date": "Wed Feb 10 18:11:31 CET 2021"
+  },
+  {
+    "ID": "5",
+    "sender": "guido.ala@myMail.it",
+    "addressee": [
+      "marco.rossi@myMail.it"
+    ],
+    "subject": "Trasferta Nichelino",
+    "message": "marco.rossi@myMail.it\nWed Feb 10 18:11:31 CET 2021:\nGiovedi alle 5:00 partenza da Rivarolo.\nRicordate la documentazione.\nMarco Rossi.\n--------------\n\nVa neme, ci sarò.\nMarco Rossi.",
+    "date": "Wed Feb 10 18:38:56 CET 2021"
+  },
+  {
+    "ID": "6",
+    "sender": "guido.ala@myMail.it",
+    "addressee": [
+      "marco.rossi@myMail.it",
+      "gigi.natale@myMail.it"
+    ],
+    "subject": "Trasferta Nichelino",
+    "message": "marco.rossi@myMail.it\nWed Feb 10 18:11:31 CET 2021:\nGiovedi alle 5:00 partenza da Rivarolo.\nRicordate la documentazione.\nMarco Rossi.\n--------------\n\nVa bene, ci sarò.\nGuido Ala.",
+    "date": "Wed Feb 10 18:41:20 CET 2021"
+  },
+  {
+    "ID": "7",
+    "sender": "anna.bianchi@myMail.it",
+    "addressee": [
+      "guido.ala@myMail.it"
+    ],
+    "subject": "Invito cena",
+    "message": "Ciao Guido,\nsarei felice se accettassi il mio invito per domani sera a cena alle 20:00.\nAnna.",
+    "date": "Wed Feb 10 21:11:08 CET 2021"
+  },
+  {
+    "ID": "8",
+    "sender": "anna.bianchi@myMail.it",
+    "addressee": [
+      "guido.ala@myMail.it"
+    ],
+    "subject": "Ricevuta?",
+    "message": "Hai ricevuto la mia email?\nAnna",
+    "date": "Wed Feb 10 21:12:15 CET 2021"
+  },
+  {
+    "ID": "9",
+    "sender": "guido.ala@myMail.it",
+    "addressee": [
+      "anna.bianchi@myMail.it"
+    ],
+    "subject": "Ricevuta?",
+    "message": "anna.bianchi@myMail.it\nWed Feb 10 21:12:15 CET 2021:\nHai ricevuto la mia email?\nAnna\n--------------\n\nSi Anna, lasciami il tempo di risponderti.\nGuido",
+    "date": "Wed Feb 10 21:13:01 CET 2021"
+  },
+  {
+    "ID": "10",
+    "sender": "marco.rossi@myMail.it",
+    "addressee": [
+      "guido.ala@myMail.it",
+      "gigi.natale@myMail.it"
+    ],
+    "subject": "Trasferta Nichelino",
+    "message": "--- Fwd message --- \nFrom: marco.rossi@myMail.it\nTo: \u003cmarco.rossi@myMail.it\u003e \u003cgigi.natale@myMail.it\u003e \nDate: Wed Feb 10 18:41:20 CET 2021\nSubject: Trasferta Nichelino\nmarco.rossi@myMail.it\nWed Feb 10 18:11:31 CET 2021:\nGiovedi alle 5:00 partenza da Rivarolo.\nRicordate la documentazione.\nMarco Rossi.\n--------------\n\nVa bene, ci sarò.\nGuido Ala.",
+    "date": "Wed Feb 10 21:20:14 CET 2021"
+  },
+  {
+    "ID": "11",
+    "sender": "gigi.natale@myMail.it",
+    "addressee": [
+      "anna.bianchi@myMail.it"
+    ],
+    "subject": "Guido",
+    "message": "Ciao Anna,\nhai sentito Guido?\nGrazie, Gigi.",
+    "date": "Wed Feb 10 21:28:23 CET 2021"
+  },
+  {
+    "ID": "12",
+    "sender": "gigi.natale@myMail.it",
+    "addressee": [
+      "anna.bianchi@myMail.it"
+    ],
+    "subject": "Guido",
+    "message": "--- Fwd message --- \nFrom: gigi.natale@myMail.it\nTo: \u003canna.bianchi@myMail.it\u003e \nDate: Wed Feb 10 21:28:23 CET 2021\nSubject: Guido\nCiao Anna,\nhai sentito Guido?\nGrazie, Gigi.",
+    "date": "Wed Feb 10 21:38:22 CET 2021"
+  },
+  {
+    "ID": "13",
+    "sender": "anna.bianchi@myMail.it",
+    "addressee": [
+      "gigi.natale@myMail.it"
+    ],
+    "subject": "Guido",
+    "message": "gigi.natale@myMail.it\nWed Feb 10 21:38:22 CET 2021:\n--- Fwd message --- \nFrom: gigi.natale@myMail.it\nTo: \u003canna.bianchi@myMail.it\u003e \nDate: Wed Feb 10 21:28:23 CET 2021\nSubject: Guido\nCiao Anna,\nhai sentito Guido?\nGrazie, Gigi.\n--------------\n\nCiao gigi,\nsi, dovrebbe venire a cena domani. Hai bisogno?\nAnna.",
+    "date": "Wed Feb 10 21:42:23 CET 2021"
+  }
+]
