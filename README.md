@@ -30,4 +30,4 @@ It handles:
 The server can be turned off by a Button, and it writes logs for every primary action including logins and logouts, but they are not stored in any way so when you close the window you will lose the entire history.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
