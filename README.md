@@ -5,10 +5,6 @@ A simple project for my university class using Maven, JavaFX and Java. It runs l
 
 I uploaded this project to have it in my portfolio (say sike rn) and to remind me how a project shouldn't be done. It's a badly written project so it has bugs and a lot of janky ideas.
 
-## Usage
-
-Compile and run it.
-
 ## Description
 
 It works as a Client-Server platform, where the Client does have a form of cache (actually, it's just a ListView that will not be updated) so every time the server goes down you will only be able to view the emails and nothing more. 
