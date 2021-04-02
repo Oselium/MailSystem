@@ -3,7 +3,7 @@
 A simple project for my university class using Maven, JavaFX and Java. It runs locally but it can be used from another machine.
 
 
-I uploaded this project to have it in my portfolio (say sike rn) and to remind me how a project shouldn't be done. It's a badly written project so it has bugs and a lot of janky ideas.
+It's a badly written project so it has bugs and a lot of janky ideas.
 
 ## Description
 
